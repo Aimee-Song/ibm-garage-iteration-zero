@@ -29,7 +29,8 @@ cluster_name="<cluster name>"
 # registry_namespace value should be updated to a unique value.
 #registry_namespace="<registry namespace>"
 
-resource_group_name="<resource group>"
+resource_group_name="mooc-team-one"
+IBMCLOUD_API_KEY=RvhioOlYkrnc2aEkm32EnIGclQ4yuYldJsUsBfKuyujl
 region="us-east"
 # If provisioning a vpc cluster, list the zone name(s) where the worker nodes should be provisioned. Each value
 # should be separated by a comma. The zone names are based on the region names, so to provision the cluster in
